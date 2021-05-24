@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10737" started-at="2021-05-24T04:53:33Z" finished-at="2021-05-24T04:53:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10737" started-at="2021-05-24T04:53:33Z" finished-at="2021-05-24T04:53:44Z">
+      <class name="automationChallenge.SauceDemoTest">
+        <test-method status="PASS" signature="completePurchase()[pri:6, instance:automationChallenge.SauceDemoTest@548b7f67]" name="completePurchase" duration-ms="10719" started-at="2021-05-23T23:53:33Z" description="7. Complete a purchase" finished-at="2021-05-23T23:53:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- completePurchase -->
+      </class> <!-- automationChallenge.SauceDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
